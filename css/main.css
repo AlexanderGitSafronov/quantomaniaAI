@@ -202,7 +202,7 @@ h1 > span {
   background: url("../img/ukraine.png");
 }
 .phone select {
-  width: 32%;
+  width: 21%;
   background-color: var(--blue);
   font-size: 18px;
   font-weight: 300;
@@ -217,7 +217,7 @@ h1 > span {
   z-index: 5;
 }
 .phone input {
-  width: 58%;
+  width: 69%;
 }
 .form button {
   width: 100%;
