@@ -79,7 +79,7 @@ h1 > span {
   margin: 232px 0px 0px;
 }
 .bunner__text {
-  color: #373737;
+  color: var(--silver);
 }
 .main__bunner .bunner__button {
   color: var(--orange);
@@ -223,7 +223,7 @@ h1 > span {
   width: 100%;
   padding: 18px 0px;
   background-color: var(--orange);
-  color: #373737;
+  color: var(--silver);
   font-size: 20px;
   font-weight: 500;
   font-family: Orchidea_Pro, sans-serif;
@@ -352,7 +352,7 @@ h1 > span {
   margin-bottom: 30px;
 }
 .soluzione__description {
-  color: #373737;
+  color: var(--silver);
   padding: 0px 19px;
   line-height: 26px;
 }
